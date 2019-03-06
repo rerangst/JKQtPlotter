@@ -1,0 +1,12 @@
+<map id="JKQTPBarVerticalGraph" name="JKQTPBarVerticalGraph">
+<area shape="rect" id="node1" title="This implements a bar graph with bars starting at &#160;to This class plots a bargraph...." alt="" coords="433,315,633,344"/>
+<area shape="rect" id="node6" href="$d4/d48/a02943.html" title="This implements a bar graph with bars starting at &#160;to This works much the same as JKQTPBarHorizontalG..." alt="" coords="166,401,389,430"/>
+<area shape="rect" id="node9" href="$de/d87/a02939.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="413,401,654,430"/>
+<area shape="rect" id="node10" href="$d9/da5/a02935.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="679,392,905,439"/>
+<area shape="rect" id="node2" href="$dd/d81/a02967.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="465,237,602,267"/>
+<area shape="rect" id="node3" href="$d3/de2/a02959.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="475,160,592,189"/>
+<area shape="rect" id="node4" href="$da/d0d/a02955.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="453,83,613,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="491,5,576,35"/>
+<area shape="rect" id="node7" href="$d4/d32/a02951.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="5,495,269,525"/>
+<area shape="rect" id="node8" href="$df/d93/a02947.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="294,487,543,533"/>
+</map>

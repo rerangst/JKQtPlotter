@@ -1,0 +1,23 @@
+<map id="JKQTPXYParametrizedScatterGraph" name="JKQTPXYParametrizedScatterGraph">
+<area shape="rect" id="node1" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="2351,393,2597,439"/>
+<area shape="rect" id="node2" href="$dc/d44/a02899.html" title="This implements xy line plots. This also alows to draw symbols at the data points." alt="" coords="2118,436,2286,465"/>
+<area shape="rect" id="node3" href="$dd/d81/a02967.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="1701,467,1839,496"/>
+<area shape="rect" id="node4" href="$d3/de2/a02959.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="1432,475,1549,504"/>
+<area shape="rect" id="node5" href="$da/d0d/a02955.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="1177,475,1337,504"/>
+<area shape="rect" id="node6" title=" " alt="" coords="75,351,160,380"/>
+<area shape="rect" id="node7" href="$d9/daf/a02807.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="831,327,979,356"/>
+<area shape="rect" id="node8" href="$d5/d55/a02719.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="485,231,613,260"/>
+<area shape="rect" id="node11" href="$d3/df5/a02827.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="1164,165,1351,195"/>
+<area shape="rect" id="node13" href="$d5/d8f/a03255.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="1172,295,1343,324"/>
+<area shape="rect" id="node19" href="$d0/de5/a03279.html" title="if a class is derived from this class, it may use color bars" alt="" coords="2103,373,2301,403"/>
+<area shape="rect" id="node9" href="$d1/d58/a02731.html" title="subclass representing one node in the syntax tree" alt="" coords="805,215,1004,244"/>
+<area shape="rect" id="node10" href="$d8/d87/a02839.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="1400,232,1581,261"/>
+<area shape="rect" id="node20" href="$d0/d45/a02843.html" title="implements a position&#45;indipendent horizontal axis, based on JKQTPCoordinateAxis (for most of document..." alt="" coords="1631,287,1909,316"/>
+<area shape="rect" id="node17" href="$d0/d82/a02831.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="1411,351,1570,380"/>
+<area shape="rect" id="node12" href="$d1/d24/a02847.html" title="Support Class for JKQTPCoordinateAxis, which summarizes all proeprties that define the visual styling..." alt="" coords="5,21,229,51"/>
+<area shape="rect" id="node15" href="$df/d37/a02823.html" title="Support Class for JKQTBasePlotter, which summarizes all proeprties that define the visual styling of ..." alt="" coords="456,292,641,321"/>
+<area shape="rect" id="node14" title=" " alt="" coords="813,161,997,191"/>
+<area shape="rect" id="node16" href="$d7/d45/a03175.html" title="Support Class for JKQTBasePlotter, which summarizes all proeprties that define the visual styling of ..." alt="" coords="51,292,184,321"/>
+<area shape="rect" id="node21" href="$d6/d97/a02835.html" title="implements a position&#45;indipendent vertical axis, based on JKQTPCoordinateAxis (for most of documentat..." alt="" coords="1642,357,1898,387"/>
+<area shape="rect" id="node18" href="$d0/de4/a02851.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="475,407,622,436"/>
+</map>

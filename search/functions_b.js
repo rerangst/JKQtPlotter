@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['leaveevent',['leaveEvent',['../db/d65/a03179.html#af123747c380400d73a38f8d17814ab9c',1,'JKQTPlotter::leaveEvent()'],['../d6/d38/a03259.html#af74b4b4d9674c333d37585d076411f3e',1,'JKVanishQToolBar::leaveEvent()']]],
+  ['loadcurrentaxisstyle',['loadCurrentAxisStyle',['../d3/df5/a02827.html#a860ea96786c2c84363e6182429933637',1,'JKQTPCoordinateAxis']]],
+  ['loadcurrentplotterstyle',['loadCurrentPlotterStyle',['../d9/daf/a02807.html#a671a9ae24c0d55e4664adc5654855f11',1,'JKQTBasePlotter::loadCurrentPlotterStyle()'],['../db/d65/a03179.html#aa93ca4edb8bc2528008c7f1c71643c33',1,'JKQTPlotter::loadCurrentPlotterStyle()']]],
+  ['loadsettings',['loadSettings',['../d5/d55/a02719.html#a8862f932173da3044cf4b34b260f7256',1,'JKQTMathText::loadSettings()'],['../d9/daf/a02807.html#a6715321d5123443185e9fbfb7a23a974',1,'JKQTBasePlotter::loadSettings()'],['../df/d37/a02823.html#a63d63961766ead5be3269a85667de9c5',1,'JKQTBasePlotterStyle::loadSettings()'],['../d3/df5/a02827.html#a676a860657290ee3183b2d0814f4fb8b',1,'JKQTPCoordinateAxis::loadSettings()'],['../d1/d24/a02847.html#ae60661d98ae22a8c8cbe3fa2b1fa2e32',1,'JKQTPCoordinateAxisStyle::loadSettings()'],['../d7/d45/a03175.html#a088c95e758df5844b1583c1009a839d1',1,'JKQTPKeyStyle::loadSettings()'],['../db/d65/a03179.html#aebcc4aac86c36b3960f3891120c1fa07',1,'JKQTPlotter::loadSettings()'],['../d7/d49/a03187.html#ae71643eb568cb84588ef345a03f370a1',1,'JKQTPlotterStyle::loadSettings()']]],
+  ['loadusersettings',['loadUserSettings',['../d9/daf/a02807.html#a24aca02fa75e45c6f2679a4ae5c9b8a0',1,'JKQTBasePlotter::loadUserSettings(const QSettings &amp;settings, const QString &amp;group=QString(&quot;plots_user/&quot;))'],['../d9/daf/a02807.html#afd27bc642a7f90269c550a215d750ded',1,'JKQTBasePlotter::loadUserSettings()']]],
+  ['logicalexpression',['logicalExpression',['../d2/dd0/a03283.html#ad1cc1e18a4417cae19976ed43307290f',1,'JKQTPMathParser']]],
+  ['logicalterm',['logicalTerm',['../d2/dd0/a03283.html#ae159ae5ad4d4436229e49417715b04ae',1,'JKQTPMathParser']]]
+];
